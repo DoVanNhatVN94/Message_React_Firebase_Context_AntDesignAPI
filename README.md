@@ -1,1 +1,10 @@
 # Message_React_Firebase_Context_AntDesignAPI
+    "antd": "^4.21.5",
+    "date-fns": "^2.28.0",
+    "firebase": "^8.6.8",
+    "lodash": "^4.17.21",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "5.0.1",
+    "styled-components": "^5.3.5"
